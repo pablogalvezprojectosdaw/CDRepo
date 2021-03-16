@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding = "ISO-8859-1"?>
+<?xml-stylesheet type ="text/xsl" href ="cd_p4.xsl"?>
+<listaCDS>
+    <cd>
+        <titulo>Oddysey</titulo>
+        <artista>Barely Alive</artista>
+        <sello>Disciple Recordings</sello>
+        <anio>2019</anio>
+         
+            <cancion tiempo="2:34">Oddysey</cancion>
+            <cancion tiempo="2:53">New Coupe/Ride Out</cancion>
+            <cancion tiempo="3:07">Wompum</cancion>
+            <cancion tiempo="1:47">Know About Me</cancion>
+            <cancion tiempo="1:57">Deeper In Love</cancion>
+         
+    </cd>
+    <cd>
+        <titulo>Armaggeddy EP</titulo>
+        <artista>Spag Heddy</artista>
+        <sello>Never Say Die Records</sello>
+        <anio>2020</anio>
+         
+            <cancion tiempo="2:07">Dojo</cancion>
+            <cancion tiempo="3:07">Raise Your Hands</cancion>
+            <cancion tiempo="1:17">Bass Goes Boom</cancion>
+            <cancion tiempo="1:23">Stupid-O</cancion>
+            <cancion tiempo="2:47">Robot Song</cancion>
+         
+    </cd>
+    <cd>
+        <titulo>Character EP</titulo>
+        <artista>Moore Kismet</artista>
+        <sello>Never Say Die Recordings</sello>
+        <anio>2020</anio>
+         
+             <cancion tiempo="2:27">Telekinesis</cancion>
+             <cancion tiempo="3:27">Sugar Rush</cancion>
+             <cancion tiempo="2:07">Distractions</cancion>
+             <cancion tiempo="2:17">Breakdown</cancion>
+         
+    </cd>
+    <cd>
+        <titulo>Save Yourself EP</titulo>
+        <artista>Virtual Riot</artista>
+        <sello>Disciple Recordings</sello>
+        <anio>2020</anio>
+         
+             <cancion tiempo="1:47">Save Yourself</cancion>
+             <cancion tiempo="2:23">Wallmonger</cancion>
+             <cancion tiempo="1:34">Hysteria</cancion>
+             <cancion tiempo="1:56">Self Checkout</cancion>
+             <cancion tiempo="1:26">Goat</cancion>
+             <cancion tiempo="1:52">The Recall</cancion>
+             <cancion tiempo="1:37">Insides</cancion>
+         
+    </cd>
+    <cd>
+        <titulo>Rave Savers EP</titulo>
+        <artista>Bandlez</artista>
+        <sello>Disciple Round Table</sello>
+        <anio>2020</anio>
+         
+             <cancion tiempo="2:07">Fun</cancion>
+             <cancion tiempo="1:54">Meme Graveyard</cancion>
+             <cancion tiempo="2:24">Gooba Gabba</cancion>
+             <cancion tiempo="2:43">Mr. Yoi</cancion>
+         
+    </cd>
+    <cd>
+        <titulo>Isolation EP</titulo>
+        <artista>Panda Eyes</artista>
+        <sello>Disciple Recordings</sello>
+        <anio>2018</anio>
+         
+             <cancion tiempo="2:37">Isolated</cancion>
+             <cancion tiempo="1:38">I Am Undead</cancion>
+             <cancion tiempo="2:48">Triforce</cancion>
+             <cancion tiempo="2:35">The Beauty And The Lazergun</cancion>
+         
+    </cd>
+    <cd>
+        <titulo>SENTIENCE</titulo>
+        <artista>1788-L</artista>
+        <sello>DeadBeats</sello>
+        <anio>2018</anio>
+         
+             <cancion tiempo="2:24">F U L L / B U R S T</cancion>
+             <cancion tiempo="2:53">N U / V E R / K A</cancion>
+             <cancion tiempo="2:47">F O R C E / I M P U L S E</cancion>
+             <cancion tiempo="2:23">A S T R A Y / R</cancion>
+         
+    </cd>
+    <cd>
+        <titulo>I Got Tha EP</titulo>
+        <artista>QUIX</artista>
+        <sello>Disciple Recordings</sello>
+        <anio>2019</anio>
+         
+             <cancion tiempo="1:11">I Got Tha</cancion>
+             <cancion tiempo="1:22">I Got Tha (Bandlez Remix)</cancion>
+             <cancion tiempo="1:33">I Got Tha (INFEKT Remix)</cancion>
+         
+    </cd>
+    <cd>
+        <titulo>Cyber Whale EP</titulo>
+        <artista>Eliminate</artista>
+        <sello>Disciple Recordings</sello>
+        <anio>2019</anio>
+         
+             <cancion tiempo="1:23">Weeble Wobble VIP</cancion>
+             <cancion tiempo="1:52">You're Gonna Love Me</cancion>
+             <cancion tiempo="1:42">I'll Be There</cancion>
+             <cancion tiempo="1:39">Them</cancion>
+             <cancion tiempo="1:17">Running</cancion>
+         
+    </cd>
+    <cd>
+        <titulo>Purpose EP</titulo>
+        <artista>Ray Volpe</artista>
+        <sello>Never Say Die Records</sello>
+        <anio>2019</anio>
+         
+             <cancion tiempo="1:11">Purpose</cancion>
+             <cancion tiempo="1:22">Warp Zone</cancion>
+             <cancion tiempo="1:22">Origin</cancion>
+             <cancion tiempo="1:23">Get Up</cancion>
+         
+    </cd>
+</listaCDS>
